@@ -1,0 +1,9 @@
+{
+	"effect.cleansing-potion.cleansing": "Очищение",
+	"item.minecraft.potion.effect.cleansing": "Очищающее зелье",
+	"item.minecraft.splash_potion.effect.cleansing": "Очищающее взрывное зелье",
+	"item.minecraft.lingering_potion.effect.cleansing": "Очищающее оседающее зелье",
+	"item.minecraft.tipped_arrow.effect.cleansing": "Стрела очищения",
+
+	"modmenu.descriptionTranslation.${mod_id}": "Новое зелье и полезный эффект - Очищение. Этот эффект снимает вредные эффекты с существа и теперь может быть выбран в качестве эффекта маяка!"
+}

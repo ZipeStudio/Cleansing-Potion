@@ -1,0 +1,9 @@
+{
+	"effect.cleansing-potion.cleansing": "Cleansing",
+	"item.minecraft.potion.effect.cleansing": "Cleansing Potion",
+	"item.minecraft.splash_potion.effect.cleansing": "Cleansing Splash Potion",
+	"item.minecraft.lingering_potion.effect.cleansing": "Cleansing Lingering Potion",
+	"item.minecraft.tipped_arrow.effect.cleansing": "Arrow of Cleansing",
+
+	"modmenu.descriptionTranslation.${mod_id}": "New potion and beneficial effect - Cleansing. This effect removes harmful effects from the entity, and can now be selected as a beacon effect!"
+}

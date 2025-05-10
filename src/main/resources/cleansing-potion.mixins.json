@@ -1,0 +1,14 @@
+{
+    "required": true,
+    "package": "me.zipestudio.cleansingpotion.mixin",
+    "refmap": "${mod_id}.refmap.json",
+    "compatibilityLevel": "JAVA_${java}",
+    "mixins": [
+        "BeaconEffectsMixin"
+    ],
+    "client": [
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
