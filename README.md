@@ -44,14 +44,14 @@
 
 ---
 
-<p style="font-size:30px;font-weight:900;color:#fff">🎥 Video showcase</p>
+# 🎥 Video showcase
 <span>
 <iframe width="900" height="300" src="https://www.youtube-nocookie.com/embed/qW2Y4IJu_ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </span>
 
 ---
 
-<p style="font-size:30px;font-weight:900;color:#fff">🖼️ Recipes</p>
+# 🖼️ Recipes
 <div align="center">
   <img src="https://raw.githubusercontent.com/ZipeStudio/Cleansing-Potion/refs/heads/master/img/cleansing_potion_recipe.png" width="1000px" alt="showcase"/>
 </div>
