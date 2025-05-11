@@ -39,3 +39,15 @@
 > New potion and beneficial effect - Cleansing. This effect removes harmful effects from the entity, and can now be selected as a beacon effect!
 
 ---
+
+<p style="font-size:30px;font-weight:900;color:#fff">🖼️ Showcase</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZipeStudio/Cleansing-Potion/refs/heads/master/img/showcase.png" width="1000px" alt="showcase"/>
+</div>
+
+---
+
+<p style="font-size:30px;font-weight:900;color:#fff">🎥 Video showcase</p>
+<span>
+<iframe width="900" height="300" src="https://www.youtube-nocookie.com/embed/qW2Y4IJu_ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</span>

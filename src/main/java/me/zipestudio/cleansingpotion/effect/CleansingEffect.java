@@ -19,7 +19,7 @@ public class CleansingEffect extends StatusEffect {
     }
 
     //? if >=1.21.2 {
-    /*@Override
+    @Override
     public boolean applyUpdateEffect(ServerWorld world, LivingEntity entity, int amplifier) {
 
         List<StatusEffectInstance> effectsToRemove = entity.getStatusEffects().stream()
@@ -53,8 +53,8 @@ public class CleansingEffect extends StatusEffect {
         return super.applyUpdateEffect(world, entity, amplifier);
     }
 
-    *///?} else {
-    @Override
+    //?} else {
+    /*@Override
     public boolean applyUpdateEffect(LivingEntity entity, int amplifier) {
         if (!(entity.getWorld() instanceof ServerWorld world)) {
             return super.applyUpdateEffect(entity, amplifier);
@@ -90,7 +90,7 @@ public class CleansingEffect extends StatusEffect {
 
         return super.applyUpdateEffect(entity, amplifier);
     }
-     //?}
+     *///?}
 
     public boolean canApplyUpdateEffect(int duration, int amplifier) {
         return true;
