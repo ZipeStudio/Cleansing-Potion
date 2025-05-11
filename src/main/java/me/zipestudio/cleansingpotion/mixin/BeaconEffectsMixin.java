@@ -35,10 +35,10 @@ public class BeaconEffectsMixin {
     private static void addCustomEffectToBeacon(CallbackInfo ci) {
 
         //? if >=1.21.2 {
-        RegistryEntry<StatusEffect> cleansing = Registries.STATUS_EFFECT.getEntry(ModEffects.CLEANSING.value());
-        //?} else {
-        /*RegistryEntry<StatusEffect> cleansing = Registries.STATUS_EFFECT.getEntry(ModEffects.CLEANSING.getKey().orElseThrow()).orElseThrow();
-        *///?}
+        /*RegistryEntry<StatusEffect> cleansing = Registries.STATUS_EFFECT.getEntry(ModEffects.CLEANSING.value());
+        *///?} else {
+        RegistryEntry<StatusEffect> cleansing = Registries.STATUS_EFFECT.getEntry(ModEffects.CLEANSING.getKey().orElseThrow()).orElseThrow();
+        //?}
 
         List<List<RegistryEntry<StatusEffect>>> modifiedLevels = new ArrayList<>(EFFECTS_BY_LEVEL);
 
