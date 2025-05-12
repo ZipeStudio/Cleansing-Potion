@@ -36,7 +36,7 @@
 
 # 💬 Description
 
-> New potion and beneficial effect - Cleansing. This effect removes harmful effects from the entity, and can now be selected as a beacon effect!
+> New potion and beneficial effect: Cleansing. This effect removes harmful status effects  of equal or lower level from entity, and can now be selected as a beacon effect!
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ZipeStudio/Cleansing-Potion/refs/heads/master/img/showcase.png" width="1000px" alt="showcase"/>
