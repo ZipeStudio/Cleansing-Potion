@@ -46,7 +46,7 @@
 
 # 🎥 Video showcase
 <span>
-<iframe width="900" height="300" src="https://www.youtube-nocookie.com/embed/qW2Y4IJu_ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<video>https://www.youtube.com/watch?v=qW2Y4IJu_ho</video>
 </span>
 
 ---
