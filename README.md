@@ -45,9 +45,7 @@
 ---
 
 # 🎥 Video showcase
-<span>
-<video>https://www.youtube.com/watch?v=qW2Y4IJu_ho</video>
-</span>
+[![322](http://img.youtube.com/vi/qW2Y4IJu_ho/0.jpg)](https://www.youtube.com/watch?v=qW2Y4IJu_ho)
 
 ---
 
