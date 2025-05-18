@@ -1,0 +1,9 @@
+{
+	"effect.cleansing-potion.cleansing": "净化",
+	"item.minecraft.potion.effect.cleansing": "净化药水",
+	"item.minecraft.splash_potion.effect.cleansing": "喷溅型净化药水",
+	"item.minecraft.lingering_potion.effect.cleansing": "滞留型净化药水",
+	"item.minecraft.tipped_arrow.effect.cleansing": "净化之箭",
+
+	"modmenu.descriptionTranslation.${mod_id}": "新的药水和增益效果 —— 净化。这个效果将移除实体身上的负面效果，也可以作为信标效果。"
+}
